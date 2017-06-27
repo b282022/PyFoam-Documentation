@@ -1,5 +1,6 @@
 # PyFoam-Documentation
 Documentation(summary) of PyFOAM project
+<<<<<<< HEAD
 
 ### Installation of PyFOAM
 There are many ways of installing PyFOAM depending upon your system, but we will explore only 1 way which is very easy.
@@ -25,3 +26,5 @@ Install PyFOAM using pip by entering following command in your terminal
 
 Just to make sure that PyFOAM is in newest version, type following command in your terminal
 ``` sudo pip install --upgrade PyFoam ```
+=======
+>>>>>>> 27f6fcd891e8780987e9cd272e5a8613acbdc674
